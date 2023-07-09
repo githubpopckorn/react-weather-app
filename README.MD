@@ -1,6 +1,6 @@
 <div align="center">
 
-# App de clima con react y custom hooks ⚛️
+# App de clima con react, custom hooks ⚛️ y Tailwindcss
 ![Demo de la aplicacion](/public/images/demo-white.png?raw=true "Demo de la aplicacion")
 ![Demo de la aplicacion](/public/images/demo-dark.png?raw=true "Demo de la aplicacion")
 
